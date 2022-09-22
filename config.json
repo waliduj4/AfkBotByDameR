@@ -1,6 +1,5 @@
-{
-	"ip":"damertest.aternos.me",
-	"port": 58015,
+{ "ip":"walid_walid.aternos.me",              
+	"port": 14969
 	"name": "afkbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
